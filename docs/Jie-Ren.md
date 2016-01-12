@@ -1,2 +1,0 @@
-
-favorite color: green
